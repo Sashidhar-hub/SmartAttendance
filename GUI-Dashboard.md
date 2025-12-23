@@ -49,6 +49,7 @@ This page creates the first impression and communicates the purpose of the syste
 6.3.2 Student Registration (Signup Screen)
 
 The signup screen allows new students to create an account in the system.
+![Student Signup Screen](Signup_page.png)
 
 Features:
 
@@ -65,6 +66,7 @@ This screen ensures that only valid and registered users can access the system.
 6.3.3 Student Login Screen
 
 The login screen provides authentication functionality.
+![Student Login Screen](Login_page.png)
 
 Features:
 
@@ -81,6 +83,7 @@ After successful login, the student is redirected either to the face setup scree
 6.3.4 Face Setup Dashboard
 
 This screen allows students to register their reference face, which is later used for identity verification.
+![Selfie Capture Screen](selfie.png)
 
 Features:
 
@@ -97,6 +100,7 @@ This step ensures that the system has a valid face reference for each student.
 6.3.5 Student Dashboard (Home Screen)
 
 The student dashboard is the central control panel of the application.
+![Student Dashboard](Student Dashboard_png.png)
 
 Displayed Information:
 
@@ -119,6 +123,7 @@ This dashboard provides a summarized overview of student activity in an easily u
 6.3.6 QR Code Scanning Screen
 
 This screen enables students to scan the QR code displayed in the classroom.
+![QR Scanning Screen](Qr_scanning.png)
 
 Features:
 
@@ -135,6 +140,7 @@ This step ensures that attendance is linked to a valid session.
 6.3.7 Face Verification Screen
 
 The face verification screen is one of the most important components of the GUI.
+![Selfie Capture Screen](selfie.png)
 
 Workflow:
 
@@ -161,6 +167,7 @@ This screen bridges the frontend with the AI backend, ensuring authenticity.
 6.3.8 Attendance History Screen
 
 The attendance history screen allows students to review past attendance records.
+
 
 Features:
 

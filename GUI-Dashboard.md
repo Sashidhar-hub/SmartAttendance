@@ -100,6 +100,7 @@ This step ensures that the system has a valid face reference for each student.
 6.3.5 Student Dashboard (Home Screen)
 
 The student dashboard is the central control panel of the application.
+
 ![Student Dashboard](Student Dashboard_png.png)
 
 Displayed Information:
@@ -123,6 +124,7 @@ This dashboard provides a summarized overview of student activity in an easily u
 6.3.6 QR Code Scanning Screen
 
 This screen enables students to scan the QR code displayed in the classroom.
+
 ![QR Scanning Screen](Qr_scanning.png)
 
 Features:
@@ -140,6 +142,7 @@ This step ensures that attendance is linked to a valid session.
 6.3.7 Face Verification Screen
 
 The face verification screen is one of the most important components of the GUI.
+
 ![Selfie Capture Screen](selfie.png)
 
 Workflow:

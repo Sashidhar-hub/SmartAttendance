@@ -171,6 +171,7 @@ This screen bridges the frontend with the AI backend, ensuring authenticity.
 
 The attendance history screen allows students to review past attendance records.
 
+![Attendance History Screen](Attendancemarked.png)
 
 Features:
 

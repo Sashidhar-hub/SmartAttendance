@@ -101,7 +101,7 @@ This step ensures that the system has a valid face reference for each student.
 
 The student dashboard is the central control panel of the application.
 
-![Student Dashboard](Student Dashboard_png.png)
+![Student Dashboard](Student_Dashboard_png.png)
 
 Displayed Information:
 
@@ -171,7 +171,7 @@ This screen bridges the frontend with the AI backend, ensuring authenticity.
 
 The attendance history screen allows students to review past attendance records.
 
-![Attendance History Screen](Attendancemarked.png)
+![Attendance History Screen](AttendanceHistory.png)
 
 Features:
 
